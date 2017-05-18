@@ -24,7 +24,7 @@ import java.nio.channels.FileChannel;
 public final class InventoryHelper extends SQLiteOpenHelper {
 
 
-//hH
+//hHdfd
 
     private static final String DATABASE_NAME = "homecontrol.db";
     private static final int SCHEMA_VERSION =1;
